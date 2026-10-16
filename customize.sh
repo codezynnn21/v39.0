@@ -37,3 +37,4 @@ ui_print "  Magisk has no built-in WebUI: use KsuWebUI or MMRL to open this modu
 ui_print "- Reboot, then open CODM once (until the lobby). The module writes codm_tex.status there."
 ui_print "  If the WebUI later says the module never ran: check Zygisk is ON and CODM is not on the DenyList."
 ui_print "- Login/loading protected: render scale and texture edits wait for the start-delay window."
+ui_print " BRICK KA SANA KUPAL KA E "
